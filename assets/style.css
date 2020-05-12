@@ -1,0 +1,27 @@
+.jumbotron {
+    margin:0 auto;
+    text-align: center;
+}
+
+#result {
+    margin:0 auto;
+    width:500px;
+    height:100px;
+    background-color:#ffff00;
+    margin-top:15px;
+    padding:10px;
+}
+
+h1, h3, h5 {
+    margin:5px;
+    padding:5px;
+} 
+
+#age_form {
+    margin:0 auto;
+    width: auto;
+    height:60px;
+    margin-top:10px;
+    padding:10px;
+    background-color:#c0c0c0;
+}
